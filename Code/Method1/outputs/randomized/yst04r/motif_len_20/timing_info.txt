@@ -1,0 +1,15 @@
+Max Iterations: 10000
+Execution Time: 0.22471093893051147 seconds
+
+Max Iterations: 20000
+Execution Time: 0.18007317781448365 seconds
+
+Max Iterations: 30000
+Execution Time: 0.2088617515563965 seconds
+
+Max Iterations: 40000
+Execution Time: 0.16988868951797487 seconds
+
+Max Iterations: 50000
+Execution Time: 0.17830944061279297 seconds
+

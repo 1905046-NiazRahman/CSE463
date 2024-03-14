@@ -1,0 +1,15 @@
+Max Iterations: 10000
+Score: 15
+
+Max Iterations: 20000
+Score: 13
+
+Max Iterations: 30000
+Score: 15
+
+Max Iterations: 40000
+Score: 13
+
+Max Iterations: 50000
+Score: 14
+
