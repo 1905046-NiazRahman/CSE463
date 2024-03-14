@@ -47,6 +47,14 @@ def GenerateProfileDict(matrix, j):
     return {'A': matrix[0][j], 'C': matrix[1][j], 'G': matrix[2][j], 'T': matrix[3][j]}
 
 
+def GenerateProfileDictAlt(matrix, j):
+    nucleotides = ['A', 'C', 'G', 'T']
+    profile_dict = {}
+    for idx, nucleotide in enumerate(nucleotides):
+        profile_dict[nucleotide] = matrix[idx][j]
+    return profile_dict
+
+
 def score(motifs):
     '''Returns the score of the dna list motifs.'''
     score = 0
